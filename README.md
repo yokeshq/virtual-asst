@@ -1,6 +1,6 @@
-# Virtual-asst
+# Virtual-assistant
 
-It is a menu driven program using python code which will execute the required user query when user will give the input as a text.
+It is a menu driven program using python code which will execute the required user query when user gives the input as a text.
 
 ## Installation
 
@@ -21,4 +21,8 @@ Use the [link](https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver) to inst
 
 ## Bugs faced
 
-I encountered some error , when i type 'Dont open notepad' ,it opened the notepad,so i fixed it by adding a boolean operator to check the word and don't run if it detects the word .
+I encountered some error , when i type 'Dont open notepad' ,it opened the notepad,so i fixed it by adding a boolean operator to check the word and don't run if it detects the word.
+
+## Future improvements
+
+This project will be further converted to a voice based virtual assistant than typing it by incorporating some libraries.
