@@ -1,6 +1,7 @@
 # Virtual-assistant
 
 It is a menu driven program using python code which will execute the required user query when user gives the input as a text.
+It can open notepad,windows media player,vlc,chrome,youtube,facebook,calculator,spotify,gmail .
 
 ## Installation
 
